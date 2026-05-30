@@ -15,22 +15,22 @@ const skills = [
   { 
     name: 'FL Studio 2025', 
     url: 'https://www.image-line.com/fl-studio/',
-    imgSrc: "https://i.ibb.co/9mRQD4wZ/fl-icon.png" 
+    imgSrc: "/fl-icon.png" 
   },
   { 
     name: 'Logic Pro', 
     url: 'https://www.apple.com/logic-pro/',
-    imgSrc: "https://i.ibb.co/xtcSvcbm/logic-icon.png"
+    imgSrc: "/logic-icon.png"
   },
   { 
     name: 'Photoshop', 
     url: 'https://www.adobe.com/products/photoshop.html',
-    imgSrc: "https://i.ibb.co/z99329c/ps-icon.png"
+    imgSrc: "/ps-icon.png"
   },
   { 
     name: 'Premiere Pro', 
     url: 'https://www.adobe.com/products/premiere.html',
-    imgSrc: "https://i.ibb.co/G68tz8W/pr-icon.png"
+    imgSrc: "/pr-icon.png"
   }
 ];
 
